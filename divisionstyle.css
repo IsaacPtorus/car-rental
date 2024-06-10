@@ -1,0 +1,38 @@
+#rare{
+    background-color: #85ee05;
+    padding:  20px;
+}
+.huduma{
+    background-color: burlywood;
+    padding:30px;
+    margin-top: 30px;
+}
+#just{
+    text-align: center;
+}
+.mymain{
+    display: flex;
+}
+#ab{
+    background-color: #054fee;
+    color: black;
+ margin-right: 20px;
+    margin-left: 20px;
+}
+#abc{
+    margin-right: 20px;
+    margin-left: 20px;
+     background-color: #ee05db;
+    color: black;
+
+}
+#abcd{
+     background-color: #ee3005;
+    color: black;
+ margin-right: 20px;
+    margin-left: 20px;
+}
+#ab:hover,#abc:hover, #abcd:hover {
+background-color: #85ee05;
+}
+

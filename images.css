@@ -1,0 +1,26 @@
+h2{
+    color: black;
+    background: #00eaff;
+    line-height: 90px;
+    text-align: center;
+}
+
+/*hover characteristics to make text background change on mouse cursor arrival*/
+h2:hover{
+background-color: #ffffff;
+}
+
+p{
+    margin-left: 40px;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: oblique;
+
+}
+p:hover{
+    background-color: burlywood;
+}
+img{
+    width: 310px;
+    height: 200px;
+}

@@ -1,0 +1,20 @@
+#heading1{
+    font-size: 50px;
+    background-color: #054fee;
+    font-family: "Courier 10 Pitch";
+}
+#ouch{
+    color: #3b3bcf;
+    background-color: #05eedb;
+    font-family: "Courier 10 Pitch";
+}
+.cheat{
+    background-color: #85ee05;
+    font-family: "Courier 10 Pitch";
+
+}
+.par1{
+    font-family: "DejaVu Sans";
+    font-size: 20px;
+}
+/*id name use #,class name use {.},id specific to one element,class can be for several elements*/
